@@ -4,7 +4,7 @@
 		module="sparkwordcount$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170201170254"
+		publication="20170208160722"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
