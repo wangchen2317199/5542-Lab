@@ -1775,9 +1775,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.13!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 1195ms :: artifacts dl 25ms
-[debug] 	report for tutorial3_question1#tutorial3_question1$sbt_2.10;1.0 default produced in C:\Users\wangc\Downloads\Machine_Learning\target\resolution-cache\reports\tutorial3_question1-tutorial3_question1$sbt_2.10-default.xml
-[debug] 	resolve done (1195ms resolve - 25ms download)
+[debug] :: resolution report :: resolve 678ms :: artifacts dl 22ms
+[debug] 	report for tutorial3_question1#tutorial3_question1$sbt_2.10;1.0 default produced in E:\Softwares\Github\5542-Lab\Lab_4\Source\Machine_Learning\target\resolution-cache\reports\tutorial3_question1-tutorial3_question1$sbt_2.10-default.xml
+[debug] 	resolve done (678ms resolve - 22ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: tutorial3_question1#tutorial3_question1$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -2471,6 +2471,6 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#interface;0.13.13!interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.13!logging.jar(src)
-[debug] :: resolution report :: resolve 181ms :: artifacts dl 23ms
-[debug] 	report for tutorial3_question1#tutorial3_question1$sources_2.10;1.0 default produced in C:\Users\wangc\Downloads\Machine_Learning\target\resolution-cache\reports\tutorial3_question1-tutorial3_question1$sources_2.10-default.xml
-[debug] 	resolve done (181ms resolve - 23ms download)
+[debug] :: resolution report :: resolve 177ms :: artifacts dl 16ms
+[debug] 	report for tutorial3_question1#tutorial3_question1$sources_2.10;1.0 default produced in E:\Softwares\Github\5542-Lab\Lab_4\Source\Machine_Learning\target\resolution-cache\reports\tutorial3_question1-tutorial3_question1$sources_2.10-default.xml
+[debug] 	resolve done (177ms resolve - 16ms download)

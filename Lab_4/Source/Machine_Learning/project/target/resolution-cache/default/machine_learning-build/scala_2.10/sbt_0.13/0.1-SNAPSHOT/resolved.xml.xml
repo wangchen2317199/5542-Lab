@@ -4,7 +4,7 @@
 		module="machine_learning-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170215182130"
+		publication="20170222170015"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
