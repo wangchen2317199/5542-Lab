@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: uk.ac.ed.ph.snuggletex:snuggletex-upconversion:1.2.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/uk.ac.ed.ph.snuggletex/snuggletex-upconversion/jars/snuggletex-upconversion-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/uk.ac.ed.ph.snuggletex/snuggletex-upconversion/srcs/snuggletex-upconversion-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

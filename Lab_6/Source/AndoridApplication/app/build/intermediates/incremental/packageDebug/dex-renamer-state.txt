@@ -1,0 +1,7 @@
+#Tue Feb 28 22:21:54 CST 2017
+base.0=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9d74cde3adc208962bc16fc182ea59f15e029c79
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_17c0602a441b947431360527f484654b3fc0db07\\classes.dex
+base.1=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_17c0602a441b947431360527f484654b3fc0db07
+file.0=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9d74cde3adc208962bc16fc182ea59f15e029c79\\classes.dex

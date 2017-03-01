@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.caffeineowl:bezier-utils:1.0.0-RELEASE:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.caffeineowl/bezier-utils/jars/bezier-utils-1.0.0-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.caffeineowl/bezier-utils/srcs/bezier-utils-1.0.0-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

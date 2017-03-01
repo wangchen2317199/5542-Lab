@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.xhtmlrenderer:core-renderer:R8pre2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.xhtmlrenderer/core-renderer/jars/core-renderer-R8pre2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.xhtmlrenderer/core-renderer/srcs/core-renderer-R8pre2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

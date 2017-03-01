@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\TempSG\BigData-Spring2016-lab-master\BigData-Spring2016-lab-master\Lab9\Android Controller Image\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="39e2dff22ee4d30c6d55b5f3df603f3e5ea4b8d9">
+        <dex dex="D:\TempSG\BigData-Spring2016-lab-master\BigData-Spring2016-lab-master\Lab9\Android Controller Image\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_17c0602a441b947431360527f484654b3fc0db07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TempSG\BigData-Spring2016-lab-master\BigData-Spring2016-lab-master\Lab9\Android Controller Image\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="38e536681b43b63fa87fd5efa06b4edab7992028">
+        <dex dex="D:\TempSG\BigData-Spring2016-lab-master\BigData-Spring2016-lab-master\Lab9\Android Controller Image\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9d74cde3adc208962bc16fc182ea59f15e029c79\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Feb 28 22:21:31 CST 2017
+2.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v14\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\kitten.jpg
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\mic.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\TempSG\\BigData-Spring2016-lab-master\\BigData-Spring2016-lab-master\\Lab9\\Android Controller Image\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

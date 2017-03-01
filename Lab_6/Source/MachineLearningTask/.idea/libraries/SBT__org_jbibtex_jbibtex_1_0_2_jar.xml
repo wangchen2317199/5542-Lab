@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.jbibtex:jbibtex:1.0.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jbibtex/jbibtex/jars/jbibtex-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jbibtex/jbibtex/srcs/jbibtex-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
