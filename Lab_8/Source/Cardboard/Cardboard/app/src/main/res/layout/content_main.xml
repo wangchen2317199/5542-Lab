@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.google.vr.sdk.widgets.video.VrVideoView
+        android:id="@+id/video_view"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"/>
+
+    <SeekBar
+        android:id="@+id/seek_bar"
+        android:layout_height="32dp"
+        android:layout_width="match_parent"
+        style="?android:attr/progressBarStyleHorizontal"/>
+
+    <Button
+        android:id="@+id/btn_volume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Volume Toggle"/>
+
+    <Button
+        android:text="Pause"
+        android:layout_width="134dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_pause" />
+
+    <Button
+        android:text="stop"
+        android:layout_width="143dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_stop" />
+
+    <Button
+        android:text="jump"
+        android:layout_width="136dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_seek" />
+
+</LinearLayout>
