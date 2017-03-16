@@ -6,3 +6,4 @@
 * Lab 5-https://github.com/wangchen2317199/5542-Lab/wiki/Lab-5
 * Lab 6-https://github.com/wangchen2317199/5542-Lab/wiki/Lab-6
 * Lab 7-https://github.com/wangchen2317199/5542-Lab/wiki/Lab-7
+* Lab 8-https://github.com/wangchen2317199/5542-Lab/wiki/Lab-8
